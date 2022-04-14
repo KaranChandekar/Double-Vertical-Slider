@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
 
 * {
   box-sizing: border-box;
@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   height: 100vh;
 }
 
@@ -76,7 +76,6 @@ button:hover {
 button:focus {
   outline: none;
 }
-
 
 .slider-container .action-buttons button {
   position: absolute;
